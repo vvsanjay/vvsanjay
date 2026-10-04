@@ -12,6 +12,7 @@ I'm interested in how software and data can improve business decisions and every
 
 | Project | Business question | Technical focus | Current scope |
 | --- | --- | --- | --- |
+| [**NPN SCM — Team Vortex5**](https://github.com/NoumanS-20/NPN) | How can supply-chain teams choose suppliers and align demand, production, and financial plans? | Python, FastAPI, scikit-learn, LightGBM, PuLP, JavaScript | Cognizant NPN SCM Hackathon team project: **SupplyGuard** for supplier risk and procurement optimization; **TrendWear Planner** for demand forecasting and production planning |
 | [**Aegis × ContextOS**](https://github.com/vvsanjay/aegis-contextoss) | How can teams spot changes between a project's original intent and its current documentation? | FastAPI, React/TypeScript, sentence-transformers, SQLAlchemy, Celery/Redis | Semantic drift prototype with supporting supply-chain scaffolding |
 | [**BAIRBot**](https://github.com/vvsanjay/AI-chat-box) | How can teams draft, refine, and trace software requirements? | FastAPI, React, MongoDB, OpenAI API integration | Requirements-engineering prototype; integration work remains |
 | [**Bandwise**](https://github.com/vvsanjay/AI-Powered-IELTS-preparation-ans-evaluation-platform-) | How could an IELTS practice service store submissions and track practice activity? | Flask, SQLAlchemy, JWT, SpeechRecognition | Backend scaffold; band scores are placeholders |
