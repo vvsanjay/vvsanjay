@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Sanjay — Software, Data and Business Systems</title>
+<desc id="desc">A dark navy banner introducing Sanjay, a Computer Science and Business Systems student.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1728"/><stop offset="1" stop-color="#17334a"/></linearGradient></defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<rect x="48" y="48" width="5" height="164" rx="2" fill="#48d1c4"/>
+<text x="78" y="80" fill="#72dfd4" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">COMPUTER SCIENCE &amp; BUSINESS SYSTEMS</text>
+<text x="75" y="151" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">Sanjay</text>
+<text x="78" y="197" fill="#c6d4e1" font-family="Arial,Helvetica,sans-serif" font-size="24">Software. Data. Better business decisions.</text>
+<path d="M955 48h164v164H955z M1010 48v164 M1065 48v164 M955 103h164 M955 158h164" fill="none" stroke="#34566e" stroke-width="1.5"/>
+<rect x="1011" y="104" width="53" height="53" rx="8" fill="#48d1c4" opacity=".8"/>
+<circle cx="982" cy="75" r="7" fill="#72dfd4"/>
+<circle cx="1092" cy="185" r="7" fill="#72dfd4"/>
+</svg>
